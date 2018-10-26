@@ -1,5 +1,5 @@
 #  If we list all the natural numbers below 10 that are multiples of 4 or 5, we get 4, 5, and 8. 
- # The sum of these multiples is 17. Then find the sum of all the multiples of 4 or 5 below 1000. 
+#  The sum of these multiples is 17. Then find the sum of all the multiples of 4 or 5 below 1000. 
 
 sum=0                   #Initialize variable "sum" as 0.
 
