@@ -1,6 +1,6 @@
 
 
-# Headspin Tasks
+# Headspin Assignment
 
 There were three questions asked, The code implementation is done using python which im familiar with. There are 3 folders corresponding to each question. Below is the detail for the 3 questions respectively.  
 
