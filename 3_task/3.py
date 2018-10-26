@@ -1,6 +1,11 @@
+# The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17. Find the sum of all the primes below two million.
+
+
+
+
 import itertools
 
-primes_below_number = 200000
+primes_below_number = 2000000
 numbers = [v % 2 !=0 for v in range(primes_below_number)]
 numbers[0] = False
 numbers[1] = False
